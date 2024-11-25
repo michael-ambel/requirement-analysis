@@ -14,4 +14,6 @@ Requirement Validation.
 
 4. Types of Requirements.
 
-5. 5. Use Case Diagrams
+5.  Use Case Diagrams
+
+6.  Acceptance Criteria
