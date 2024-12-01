@@ -6,11 +6,13 @@ This repository explores **Requirement Analysis** in the Software Development Li
 ---
 
 1. What is Requirement Analysis?
+   
 Requirement Analysis is a foundational step in the SDLC where project teams gather, analyze, and define the requirements for a software product. It ensures a shared understanding among stakeholders about what the system should do and how it should perform.
 
 ---
 
 2. Why is Requirement Analysis Important?
+   
 1. **Clarity and Understanding**: Reduces ambiguity by defining expectations.
 2. **Scope Definition**: Prevents scope creep by clearly defining project boundaries.
 3. **Basis for Design and Development**: Provides a solid foundation for subsequent SDLC phases.
@@ -73,14 +75,14 @@ Requirement Analysis is a foundational step in the SDLC where project teams gath
 5. Use Case Diagrams 
 Use Case Diagrams visually represent system interactions, showing how users (actors) achieve goals (use cases).
 
-
-
 **Benefits**:
 - Simplifies understanding of system functionalities.
 - Facilitates communication among stakeholders.
 - Helps organize and validate requirements.
 
----
+https://drive.google.com/file/d/175SjMxrabN9OfVSBgINiBpbPeTkhcRVF/view?usp=sharing
+alx-booking-uc https://github.com/user-attachments/assets/07c47584-e310-48af-9dff-705387c9ed92)
+
 
 6. Acceptance Criteria ✅
 Acceptance criteria are the conditions under which stakeholders consider a feature complete and acceptable.
